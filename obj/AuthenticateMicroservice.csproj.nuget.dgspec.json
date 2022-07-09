@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work & Study\\MFPE\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj": {}
+    "D:\\Work & Study\\MFPE - CLoud\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj": {}
   },
   "projects": {
-    "D:\\Work & Study\\MFPE\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj": {
+    "D:\\Work & Study\\MFPE - CLoud\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work & Study\\MFPE\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj",
+        "projectUniqueName": "D:\\Work & Study\\MFPE - CLoud\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj",
         "projectName": "AuthenticateMicroservice",
-        "projectPath": "D:\\Work & Study\\MFPE\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj",
+        "projectPath": "D:\\Work & Study\\MFPE - CLoud\\AuthenticateMicroservice\\AuthenticateMicroservice.csproj",
         "packagesPath": "C:\\Users\\BABIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Work & Study\\MFPE\\AuthenticateMicroservice\\obj\\",
+        "outputPath": "D:\\Work & Study\\MFPE - CLoud\\AuthenticateMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
